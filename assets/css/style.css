@@ -1,0 +1,16 @@
+.cell{
+    width:80px;
+}
+td{
+    width:80px;
+    height:80px;
+}
+.red{
+    background: url('../images/red.png');
+}
+.yellow{
+    background: url('../images/yellow.png');
+}
+.empty{
+    background: url('../images/empty.png');
+}
